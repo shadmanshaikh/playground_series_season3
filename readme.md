@@ -1,6 +1,6 @@
 # Playground Series - Season 3 , Episode 5 
 
-> Note :  Based on the kaggle recent competition 
+> Note :  Based on the recent kaggle competition 
 
 ## Dataset Description 
 
